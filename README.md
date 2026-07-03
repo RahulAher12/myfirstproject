@@ -19,7 +19,7 @@ A Java Maven web application for registrations management. This project contains
 
 ## Project Overview
 
-This repository contains a Java web application built with Maven and jenkins. The application is packaged as a WAR and is designed to run on Tomcat.
+This repository contains a Java web application built with Maven. The application is packaged as a WAR and is designed to run on Tomcat.
 
 ## Tech Stack
 
