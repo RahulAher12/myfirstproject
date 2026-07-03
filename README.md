@@ -19,7 +19,7 @@ A Java Maven web application for registrations management. This project contains
 
 ## Project Overview
 
-This repository contains a Java web application built with Maven. The application is packaged as a WAR and is designed to run on Tomcat.
+This repository contains a Java web application built with Maven and jenkins. The application is packaged as a WAR and is designed to run on Tomcat.
 
 ## Tech Stack
 
@@ -35,7 +35,7 @@ This repository contains a Java web application built with Maven. The applicatio
 
 ## Prerequisites
 
-- Java: OpenJDK 21 (or Java 8, 11, 17 as needed)
+- Java: OpenJDK 21 (or Java 8, 11, 17, 21 as needed)
 - Maven: 3.9.0 or higher
 - Git: For cloning the repository
 - Docker: Optional, to build and run the Docker image
